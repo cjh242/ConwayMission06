@@ -4,6 +4,7 @@ namespace ConwayMission06.Models
 {
     using System.ComponentModel.DataAnnotations;
 
+    //movie class
     public class Movie
     {
         [Key]
